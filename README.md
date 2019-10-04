@@ -1,2 +1,3 @@
 # frostbite
-My first project is frostbite
+My first project is frostbite.
+
